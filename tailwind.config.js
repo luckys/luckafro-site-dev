@@ -5,7 +5,13 @@
 ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
 */
 module.exports = {
-  theme: {},
+  theme: {
+    fontFamily: {
+      display: ['Roboto', 'sans-serif'],
+      body: ['Roboto', 'sans-serif']
+    }
+  },
   variants: {},
-  plugins: []
+  plugins: [],
+  purge: false
 }
