@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-gray-900 sm:flex sm:items-center px-4 py-3">
+  <header class="bg-gray-900 md:bg-transparent sm:flex sm:items-center px-4 py-3 z-10 md:z-0 absolute left-0 right-0 top-0 w-full">
     <div class="flex items-center justify-between">
       <div class="flex items-center text-white mr-6">
         <LuckafroSquare class="fill-current h-10 w-10" />

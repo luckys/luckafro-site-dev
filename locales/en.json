@@ -1,0 +1,11 @@
+{
+    "nabvar": {
+        "links": {
+            "home": "Home",
+            "beats": "Beats",
+            "services": "Services",
+            "blog": "Blog",
+            "contact": "Contact"
+        }
+    }
+}

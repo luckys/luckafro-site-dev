@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto">
+  <div>
     <Navbar />
     <nuxt />
   </div>
@@ -16,6 +16,6 @@ export default {
 
 <style>
 html {
-  font-family: Roboto, sans-serif;
+  font-family: Muli, sans-serif;
 }
 </style>
